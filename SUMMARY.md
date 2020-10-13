@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [Page 1](page-1.md)
+* [Page 1](page-1/README.md)
+  * [Untitled](page-1/untitled.md)
 * [Page 2](page-2.md)
 
 ## Blue Team
