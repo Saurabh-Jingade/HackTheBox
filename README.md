@@ -12,9 +12,7 @@ Becoming a super hero is a fairly straight forward process:
 $ give me super-powers
 ```
 
-
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-
+Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 
 Once you're strong enough, save the world:
 
@@ -25,9 +23,9 @@ echo 'You got to trust me on this, I saved the world'
 ```
 {% endcode %}
 
-`echo 'You got to be kidding me.'` 😄 
+`echo 'You got to be kidding me.'` 😄
 
-Hi 
+Hi
 
 Hello
 
@@ -35,13 +33,7 @@ How are you?
 
 This is an update with the previous version.
 
-
-
 Adding this line.
-
-
-
-
 
 There is no page limit here.
 
@@ -54,8 +46,6 @@ We can just go on and on.
 ### sldkfjldkffjdalsg;kja;slgkjlfkjas;lkfjas;lkj
 
 #### sldfkjslfjsdlgjsdlgjslgjdslgjsdlgjdslgj
-
-
 
 ## Text Formatting
 
@@ -85,7 +75,7 @@ print ("Hello World!")
 
 `print ("Hello World!")`
 
-```This is a code```
+`This is a code`
 
 ```text
 
@@ -99,12 +89,9 @@ print ("Hello World!")
 
 ```bash
 echo $PATH
-
 ```
 
 This is how it's done then.
-
-
 
 Got the hang of it.
 
@@ -131,19 +118,13 @@ We came out of this. Just keep hitting enter.
 
 ## All this we did above is by using a markup language.
 
-
-
 > ### This is a quote
 >
 > You need to follow this to have any sense of what is going on.
 
 Just hit enter to come out of it.
 
-
-
 ## This is quite amazing, I am enjoying this.
-
-
 
 ## Hints and Callouts
 
@@ -191,7 +172,7 @@ This is the second tab.
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}
@@ -207,110 +188,4 @@ This is the second tab.
 | :--- | :--- |
 | Difference 1 | Difference 2 |
 | Haha | Hehe |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
